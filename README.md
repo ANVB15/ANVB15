@@ -18,7 +18,7 @@ Twitter: https://twitter.com/DefacerPh
 GitHub: https://github.com/DefacerPh
 ```
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/DefacerPh?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/DefacerPh) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/ANVB15?logo=GitHub&style=for-the-badge)](https://github.com/ANVB15) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ANVB15?logo=github&style=for-the-badge)](https://github.com/ANVB15) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/ANVB15?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/ANVB15)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DefacerPh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDefacerPh&screen_name=DefacerPh) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/ANVB15?logo=GitHub&style=for-the-badge)](https://github.com/ANVB15) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ANVB15?logo=github&style=for-the-badge)](https://github.com/ANVB15) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/ANVB15?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/ANVB15)
 
 
 ### Greetz to all the members of DefacerPH
