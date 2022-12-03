@@ -27,3 +27,11 @@ GitHub: https://github.com/DefacerPh
 [ R1Z4L | N16H7 CR4WL3R | K1LL3RB4LL | Alex | ph.M1k3y | Cyb3rFr0st | Haxcoder | 0xJoshua | L4ZYG33K | MR.$UD0 | xZyle | Silent | xmadara | Shigx | ANVB15 ]
 ``` 
 
+<!--  -->
+
+<p align="center" >
+<a href="https://github.com/ANVB15/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
