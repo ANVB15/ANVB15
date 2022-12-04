@@ -29,6 +29,11 @@ GitHub: https://github.com/DefacerPh
 
 <!--  -->
 
+<div align="center" width="50">
+
+<img src="https://i.ibb.co/bBmdtZx/ezgif-com-gif-maker.gif" alt="Welcome!" width="300" height="50"/>
+
+</div>
 
 # 💻 Tech Stack:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
